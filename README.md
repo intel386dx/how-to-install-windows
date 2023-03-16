@@ -1,2 +1,7 @@
 # how-to-install-windows
- A complete guide on installing Windows 7 to Windows 10 in Indonesian, in form of Microsoft Word
+
+This is a how-to-guide to install and configure different versions of Windows, from Windows 7 through Windows 10, and any other apps.
+
+This guide will coming soon in Indonesian and English.
+
+You will need Microsoft Word or LibreOffice Writer to open and edit this document.
